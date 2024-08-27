@@ -2,5 +2,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 <hr/>
 <div align="center">
-<img src = "./src/assets/img.png" style = "border-radius:10px">
+<img src = "./src/assets/splitbillimg.png" style = "border-radius:10px">
 </div>
